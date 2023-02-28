@@ -1,10 +1,10 @@
-# cas3d
+# Cas3D
 ![](https://img.shields.io/badge/python-3.8.1-green)
 ![](https://img.shields.io/badge/pytorch-1.10.1-green)
 ![](https://img.shields.io/badge/cudatoolkit-10.2.1-green)
 ![](https://img.shields.io/badge/cudnn-7.6.5-green)
  
-This repo provides a reference implementation of **CasCNN** as described in the paper:
+This repo provides a reference implementation of **Cas3D** as described in the paper:
 
 ## Basic Usage
 
