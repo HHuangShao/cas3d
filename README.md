@@ -38,3 +38,4 @@ The dataset we used is from CasFlow (https://github.com/Xovee/casflow) , which y
 
 
 ## Cite
+"Cascade Prediction with Recurrent Neural Networks and Diffusion Depth Distributions"
